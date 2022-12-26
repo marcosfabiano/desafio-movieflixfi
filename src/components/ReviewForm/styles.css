@@ -1,0 +1,32 @@
+.reviewform-container {
+  padding: 20px 10px;
+  margin-bottom: 18px;
+}
+
+.reviewform-input {
+  height: 50px;
+  background: #ffffff;
+  color: #9e9e9e;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  margin-bottom: 17px;
+  letter-spacing: -0.015em;
+  mix-blend-mode: normal;
+}
+
+@media (min-width: 1200px) {
+  .reviewform-container {
+    padding: 24px 17px;
+    margin-bottom: 29px;
+  }
+
+  .reviewform-submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .reviewform-submit button {
+    width: 334px;
+  }
+}

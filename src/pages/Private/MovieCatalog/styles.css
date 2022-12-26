@@ -1,0 +1,29 @@
+.moviecatalog-container {
+  padding: 15px;
+}
+
+.moviecatalog-container h1 {
+  font-size: 24px;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  margin-bottom: 50px;
+}
+
+.moviecatalog-container p {
+  font-size: 18px;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  margin-bottom: 12px;
+}
+
+@media (min-width: 1200px) {
+  .moviecatalog-container h1 {
+    font-size: 48px;
+  }
+
+  .moviecatalog-container p {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,19 @@
+.moviedetails-container {
+  padding: 17px 10px;
+}
+
+.moviedetails-container h1 {
+  font-size: 25px;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+  margin-bottom: 18px;
+}
+
+.moviedetails-container input {
+  height: 50px;
+  font-size: 16px;
+  background: #ffffff;
+  color: #263238;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}

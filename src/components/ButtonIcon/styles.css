@@ -1,0 +1,15 @@
+.btn-container {
+  display: flex;
+}
+
+.btn-container button {
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+}
+
+.btn h6 {
+  letter-spacing: -0.015em;
+  color: #000000;
+  text-transform: uppercase;
+}
